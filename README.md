@@ -5,7 +5,7 @@ is very closely based on the [Drupal Composer project](https://github.com/drupal
 
 ## Starting a new project
 
-To start a new Drupal 8 project on Platform.sh, you have 2 options:
+To start a new Drupal 9 project on Platform.sh, you have 2 options:
 
 1. Create a new project through the Platform.sh user interface and select "start
    new project from a template".  Then select Drupal 8 as the template. That will
